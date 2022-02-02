@@ -7,5 +7,4 @@ int main()
     printf("%d",area*c);
     return 0;
     
-    
 }
